@@ -1,5 +1,4 @@
-Example Conda Dockerfile
-########################
+# Example Conda Dockerfile
 
 To build Dockerfile use
 
